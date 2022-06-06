@@ -1,0 +1,46 @@
+INTRODUCTION TO SOFTWARE ENGINEERING
+
+ASSIGNMENT
+
+OLIVER KOT 
+STUDENT ID: 21000599
+Class 23, room 314 218 
+tuesday 12pm-2pm
+
+Introduction
+
+
+
+Preliminary description and checklist
+-   Code will have 5 major parts split into modules
+-	Each module will contain code for one function necessary.
+-	Modules will be called in a main file where users will have option to choose what they want to use.
+-	Modules will be named after each function required for organisation.
+o	Numbers – splits numbers and letters
+o	Valid – validates numbers
+o	Length converts measurements of lengths
+o	Case – conversion of upper/lower case
+o	Numrem – removes numbers for case transition
+o	Main – main file that imports rest of code
+-	Main file will print options where users can choose what they want to execute, choice will only execute that module.
+-	All results will be printed.
+
+Modularity checklist
+	Code must be modular 
+	Code must be cohesive with very little unnecessary code
+	If a module is being used the entire module is being used.
+	Coupling must be loose
+	Code must be easy to read and use
+•	Code follows all in checklist
+
+
+Testing
+- 
+Testing designs (Black Box Testing)
+
+- 
+	
+
+Ethics and professionalism
+
+The code that I have designed could be used in multiple ways in a large software project. With the main useful functions being the 
